@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tamisomp.github.io/sitemap.html.gz
+Sitemap: https://tamisomp.github.io/app/sitemap.html.gz
+Sitemap: https://tamisomp.github.io/assets/sitemap.html.gz
+Sitemap: https://tamisomp.github.io/css/sitemap.html.gz
+Sitemap: https://tamisomp.github.io/includes/sitemap.html.gz
+Sitemap: https://tamisomp.github.io/item/sitemap.html.gz
+Sitemap: https://tamisomp.github.io/src/sitemap.html.gz
